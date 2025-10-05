@@ -1,0 +1,21 @@
+        body {
+            margin: 0;
+            overflow: hidden;
+            background-color: #050510;
+        }
+
+        canvas {
+            display: block;
+        }
+
+        .info-panel {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: rgba(0, 0, 0, 0.5);
+            color: #fff;
+            padding: 10px;
+            border-radius: 8px;
+            font-family: 'Inter', sans-serif;
+            font-size: 14px;
+        }
